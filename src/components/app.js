@@ -1,4 +1,5 @@
-import React from 'react';
+import React, { Component } from 'react';
+import { Route } from 'react-router-dom'
 import AboutMenu from './about-menu';
 
 export default function App(props) {
